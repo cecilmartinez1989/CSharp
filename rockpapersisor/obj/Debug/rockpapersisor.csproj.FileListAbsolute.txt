@@ -1,0 +1,7 @@
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\rockpapersisor\bin\Debug\rockpapersisor.exe.config
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\rockpapersisor\bin\Debug\rockpapersisor.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\rockpapersisor\bin\Debug\rockpapersisor.pdb
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\rockpapersisor\obj\Debug\rockpapersisor.csprojAssemblyReference.cache
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\rockpapersisor\obj\Debug\rockpapersisor.csproj.CoreCompileInputs.cache
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\rockpapersisor\obj\Debug\rockpapersisor.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\rockpapersisor\obj\Debug\rockpapersisor.pdb
