@@ -11,13 +11,22 @@ namespace Methods
         static void Main(string[] args)
             {
 
-                    
-            
 
-              
+            hello();
+            add();
+            catdog();
+            oddEvent();
+            inches();
+            kilograms();
+            echo();
+            date();
+            age();
+            guess();
 
 
-                   
+
+
+
         }
         public static void hello()
         {
@@ -58,6 +67,7 @@ namespace Methods
                 {
                 Console.WriteLine("bark");
             }
+            Console.ReadLine();
         }
         public static void oddEvent()
         {
@@ -72,6 +82,7 @@ namespace Methods
             {
                 Console.WriteLine("even");
             }
+            Console.ReadLine();
 
         }
         public static void inches()
@@ -82,6 +93,7 @@ namespace Methods
 
             int inches = feet * 12;
             Console.WriteLine(inches+" incehes");
+            Console.ReadLine();
         }
         public static void echo() {
 
@@ -92,6 +104,7 @@ namespace Methods
             Console.WriteLine(input.ToUpper());
             Console.WriteLine(input.ToLower());
             Console.WriteLine(input.ToLower());
+            Console.ReadLine();
         }
         
         public static void kilograms()
@@ -102,7 +115,7 @@ namespace Methods
 
             Console.WriteLine(kilo+ "in kilograms");
 
-
+            Console.ReadLine();
 
         }
         public static void date()
@@ -116,6 +129,7 @@ namespace Methods
             int year= Convert.ToInt32(Console.ReadLine());
             int age = DateTime.Today.Year - year;
             Console.WriteLine("you are "+age);
+            Console.ReadLine();
         }
         public static void guess()
         {
@@ -129,6 +143,7 @@ namespace Methods
             {
                 Console.WriteLine("wrong");
             }
+            Console.ReadLine();
         }
 
     }
