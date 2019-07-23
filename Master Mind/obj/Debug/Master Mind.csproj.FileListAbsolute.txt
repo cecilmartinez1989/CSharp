@@ -1,0 +1,7 @@
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\Master Mind\bin\Debug\Master Mind.exe.config
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\Master Mind\bin\Debug\Master Mind.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\Master Mind\bin\Debug\Master Mind.pdb
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\Master Mind\obj\Debug\Master Mind.csprojAssemblyReference.cache
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\Master Mind\obj\Debug\Master Mind.csproj.CoreCompileInputs.cache
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\Master Mind\obj\Debug\Master Mind.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\Master Mind\obj\Debug\Master Mind.pdb
