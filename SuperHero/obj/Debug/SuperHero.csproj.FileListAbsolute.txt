@@ -1,0 +1,7 @@
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\SuperHero\bin\Debug\SuperHero.exe.config
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\SuperHero\bin\Debug\SuperHero.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\SuperHero\bin\Debug\SuperHero.pdb
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\SuperHero\obj\Debug\SuperHero.csprojAssemblyReference.cache
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\SuperHero\obj\Debug\SuperHero.csproj.CoreCompileInputs.cache
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\SuperHero\obj\Debug\SuperHero.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\SuperHero\obj\Debug\SuperHero.pdb

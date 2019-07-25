@@ -1,2 +1,7 @@
 C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
 C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Cecil Martinez\Desktop\C-Sharp-Programs\TicTacToe\obj\Debug\TicTacToe.pdb

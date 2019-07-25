@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoCos", "..\PoCos\PoCos.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "..\ToDoList\ToDoList.csproj", "{7298798F-67EA-4961-B2B6-DBAE292AF54B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHero", "..\SuperHero\SuperHero.csproj", "{067C4B88-152C-408E-B2D4-0A82BA16DC6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7298798F-67EA-4961-B2B6-DBAE292AF54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7298798F-67EA-4961-B2B6-DBAE292AF54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7298798F-67EA-4961-B2B6-DBAE292AF54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067C4B88-152C-408E-B2D4-0A82BA16DC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067C4B88-152C-408E-B2D4-0A82BA16DC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067C4B88-152C-408E-B2D4-0A82BA16DC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067C4B88-152C-408E-B2D4-0A82BA16DC6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
