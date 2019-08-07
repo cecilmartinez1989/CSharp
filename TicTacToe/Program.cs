@@ -38,6 +38,7 @@ namespace TicTacToe
             }
             printboard();
             Console.WriteLine("Winner is "+ winner);
+            Console.ReadLine();
 
         }
         public static void printboard()

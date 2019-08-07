@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "..\ToDoList\ToD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHero", "..\SuperHero\SuperHero.csproj", "{067C4B88-152C-408E-B2D4-0A82BA16DC6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarLot", "..\ConsoleApp1\CarLot.csproj", "{5BE04AA4-E810-4527-85A6-389187A73219}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{067C4B88-152C-408E-B2D4-0A82BA16DC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067C4B88-152C-408E-B2D4-0A82BA16DC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067C4B88-152C-408E-B2D4-0A82BA16DC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE04AA4-E810-4527-85A6-389187A73219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE04AA4-E810-4527-85A6-389187A73219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE04AA4-E810-4527-85A6-389187A73219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE04AA4-E810-4527-85A6-389187A73219}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
